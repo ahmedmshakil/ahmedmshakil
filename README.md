@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
+### Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/shakhawat-shakil/count.svg)
+
 ### About Me 🚀</br></br>
 🎓 I’m an Open-Source enthusiast & a fresher pursuing my Bachelors in Computer Science & Engineering. </br>
 ⛵ Open Source enthusiast |</br>
