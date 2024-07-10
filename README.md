@@ -11,7 +11,7 @@
 ###👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/shakhawat-shakil/count.svg)
 
 ### About Me 🚀</br></br>
-🎓 I’m a 3rd year student pursuing my Bachelors in Computer Science & Engineering. </br>
+🎓 I’m a 4th year student pursuing my Bachelors in Computer Science & Engineering. </br>
 ⛵ Open Source enthusiast |</br>
 🌱 Learning Python, C++, Database management, System Design,Cloud</br>
 😄 Pronouns: He/him/his</br></br></br>
