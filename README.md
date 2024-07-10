@@ -8,17 +8,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
-###👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/ahmedmshakil/count.svg)
+👋 visitor number count are here! -> > https://profile-counter.glitch.me/ahmedmshakil/count.svg
 
-### About Me 🚀</br></br>
+### About Me 🚀</br>
 🎓 I’m a 4th year student pursuing my Bachelors in Computer Science & Engineering. </br>
 ⛵ Open Source enthusiast |</br>
 🌱 Learning Python, C++, Database management, System Design,Cloud</br>
-😄 Pronouns: He/him/his</br></br></br>
-
+😄 Pronouns: He/him/his</br></br>
 ✅ My Coding Stats
-
-
 ```txt
 Python           █████████████████████████   60.00 %
 C++              ░░░░░░░░░░░░░░░░░░░░░░░░░   20.00 %
