@@ -24,10 +24,7 @@ HTML             ░░░░░░░░░░░░░░░░░░░░░
 CSS              ░░░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 
 ```
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmshakil&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 Shakhawat-Shakil/Shakhawat-Shakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedmshakil&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
- <div>
