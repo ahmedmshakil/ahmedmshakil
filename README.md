@@ -10,7 +10,7 @@
 </p>
 
 ##  💫 About Me:
-🎓 Final year Computer Science & Engineering student at IUB<br>⛵ Dev enthusiast | 🌱 <br>😄 Pronouns: He/him/hi
+🎓 Final year Computer Science & Engineering student at IUB<br>⛵ Dev enthusiast | 🌱 <br>😄 Pronouns: He/him
 
 
 ## 🌐 Socials:
