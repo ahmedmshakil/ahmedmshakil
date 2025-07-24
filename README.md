@@ -1,13 +1,19 @@
 <!-- Updating my readme for GitHub-->
 
 <h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Shakil Ahmed</h1>
-<h1 align="center"><img src="animated.gif" height="100px" width="100px"></h1>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  
+  <!-- Left Side: Animated GIF -->
+  <div>
+    <img src="animated.gif" height="100px" width="100px" alt="Animated GIF">
+  </div>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Networking-Enthusiast;Cloud-Computing+and+DevOps;Nice+To+Meet+You+...&center=true"></a>
-</p>
+  <!-- Right Side: Typing SVG -->
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Networking-Enthusiast;Cloud-Computing+and+DevOps;Nice+To+Meet+You+..." alt="Typing SVG">
+  </div>
+
+</div>
 
 ##  💫 About Me:
 🎓 Final year Computer Science & Engineering student at IUB<br>⛵ Dev & Network enthusiast | 🌱 <br>
