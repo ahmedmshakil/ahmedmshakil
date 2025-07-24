@@ -1,16 +1,16 @@
 <!-- Updating my readme for GitHub-->
 
 <h1 align="center">Hi <img src="Wave.gif" height="55px" width="55px">, I'm Shakil Ahmed</h1>
-<h1 align="center"><img src="animated.gif" height="250px" width="250px"></h1>
+<h1 align="center"><img src="animated.gif" height="100px" width="100px"></h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Cloud-Computing+and+DevOps;Learning+In+Public;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Networking-Enthusiast;Cloud-Computing+and+DevOps;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 ##  💫 About Me:
-🎓 Final year Computer Science & Engineering student at IUB<br>⛵ Dev enthusiast | 🌱 <br>😄 Pronouns: He/him
+🎓 Final year Computer Science & Engineering student at IUB<br>⛵ Dev & Network enthusiast | 🌱 <br>
 
 
 ## 🌐 Socials:
